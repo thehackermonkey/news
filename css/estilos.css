@@ -1,0 +1,39 @@
+.onespace{
+  margin-top:1em;
+}
+
+.twoespace{
+  margin-top:2em;
+}
+
+#expl
+{
+  background-color:#3F403F;
+  height: 10vh;
+}
+#home
+{
+
+  height:85vh;
+  position:relative;
+}
+
+video
+{
+  margin-top:8vh;
+}
+.news{
+  width:100%;
+  height:100%;
+  position:relative;
+}
+.white-text{
+  color: white;
+}
+.medspace{
+  margin-top:.5em;
+}
+#video-wrapper{
+  height:65vh;
+  margin-bottom:10vh;
+}
